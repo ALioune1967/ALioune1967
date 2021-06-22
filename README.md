@@ -1,4 +1,3 @@
-![cover]![web-1935737_960_720](https://user-images.githubusercontent.com/83080394/122975475-e704e900-d382-11eb-9cac-596b01dd1902.png)
 
 
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 🔭 je suis développeur Web & Mobile!
 - 🌱 Je suis Graphiste!
 -->
+![cover]![web-1935737_960_720](https://user-images.githubusercontent.com/83080394/122975475-e704e900-d382-11eb-9cac-596b01dd1902.png)
+
